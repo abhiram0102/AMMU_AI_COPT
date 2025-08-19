@@ -1,0 +1,14 @@
+{
+  "..\\..\\node_modules\\.pnpm\\next@15.4.6_@babel+core@7.2_18a0c6d5787519158ad43d5fb9e644cf\\node_modules\\next\\dist\\client\\index.js -> ../pages/_app": {
+    "id": "..\\..\\node_modules\\.pnpm\\next@15.4.6_@babel+core@7.2_18a0c6d5787519158ad43d5fb9e644cf\\node_modules\\next\\dist\\client\\index.js -> ../pages/_app",
+    "files": [
+      "static/chunks/_pages-dir-browser_node_modules_pnpm_next_15_4_6__babel_core_7_2_18a0c6d5787519158ad43d5fb9e6-3dfab3.js"
+    ]
+  },
+  "..\\..\\node_modules\\.pnpm\\next@15.4.6_@babel+core@7.2_18a0c6d5787519158ad43d5fb9e644cf\\node_modules\\next\\dist\\client\\index.js -> ../pages/_error": {
+    "id": "..\\..\\node_modules\\.pnpm\\next@15.4.6_@babel+core@7.2_18a0c6d5787519158ad43d5fb9e644cf\\node_modules\\next\\dist\\client\\index.js -> ../pages/_error",
+    "files": [
+      "static/chunks/_pages-dir-browser_node_modules_pnpm_next_15_4_6__babel_core_7_2_18a0c6d5787519158ad43d5fb9e6-d54266.js"
+    ]
+  }
+}
